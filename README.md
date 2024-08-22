@@ -16,10 +16,6 @@
    ```sh
    git clone https://github.com/Belladonna03/telebot-currency-rates.git
    cd telebot-currency-rates
-   
-# Пример работы Telegram-бота
-
-<img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img1.jpg" width="200" /> <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img2.jpg" width="200" />
 
 1. Установите зависимости:
    ```sh
@@ -38,6 +34,10 @@
 Начните диалог с ботом в Telegram, отправив команду `/start`.
 
 Бот будет отправлять вам курсы валют и криптовалют три раза в день.
+
+# Пример работы Telegram-бота
+
+<img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img1.jpg" width="200" /> <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img2.jpg" width="200" />
 
 # Лицензия
 
