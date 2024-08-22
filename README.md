@@ -20,6 +20,6 @@
 
 Вот примеры работы Telegram-бота:
 
-![Пример работы бота 1](https://github.com/Belladonna03/telebot-currency-rates/blob/raw/main/images/img1.png)
+![Пример работы бота 1](https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img1.jpg)
 
-![Пример работы бота 2](https://github.com/Belladonna03/telebot-currency-rates/blob/raw/main/images/img2.png)
+![Пример работы бота 2](https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img2.jpg)
