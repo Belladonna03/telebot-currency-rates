@@ -9,7 +9,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token="7533737081:AAGIRW35bfZQjRZEcHtdP9XLTsdBYiDdsOc")
+bot = Bot(token="")
 dp = Dispatcher()
 
 user_chat_id = None

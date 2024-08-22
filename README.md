@@ -15,7 +15,30 @@
 1. **Клонируйте репозиторий**:
    ```sh
    git clone https://github.com/Belladonna03/telebot-currency-rates.git
+   cd telebot-currency-rates
    
 # Пример работы Telegram-бота
 
 <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img1.jpg" width="200" /> <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img2.jpg" width="200" />
+
+1. Установите зависимости:
+   ```sh
+   pip install -r requirements.txt
+   
+2. Создайте файл .env в корне проекта и добавьте в него ваш токен Telegram Bot:
+   ```sh
+   TELEGRAM_BOT_TOKEN=ваш_токен_бота
+
+3. Запустите бота:
+   ```sh
+   python bot.py
+
+# Использование
+
+Начните диалог с ботом в Telegram, отправив команду `/start`.
+
+Бот будет отправлять вам курсы валют и криптовалют три раза в день.
+
+# Лицензия
+
+Этот проект лицензирован под MIT License. Подробности смотрите в файле [LICENSE](LICENSE).
