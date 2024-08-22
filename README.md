@@ -18,6 +18,4 @@
    
 # Пример работы Telegram-бота
 
-Вот примеры работы Telegram-бота:
-
 <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img1.jpg" width="200" /> <img src="https://github.com/Belladonna03/telebot-currency-rates/blob/master/images/img2.jpg" width="200" />
