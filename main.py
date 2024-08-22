@@ -19,7 +19,7 @@ async def send_welcome(message: types.Message):
     global user_chat_id
     user_chat_id = message.chat.id
     logging.info(f"User started the bot with chat_id: {user_chat_id}")
-    await message.reply("Привет! Я буду отправлять тебе курсы валют и криптовалют каждый день в 8:00, 12:00 и 20:00 по московскому времени.")
+    await message.reply("Привет! Я буду отправлять тебе курсы валют и криптовалют каждый день.")
 
 async def send_currency_rates():
     global user_chat_id
